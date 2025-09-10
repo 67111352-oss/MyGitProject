@@ -9,7 +9,7 @@
 bash
 git checkout -b FromTest2
 
-![1](./images/1.png)
+![1](1.png)
 ![2](./images/2.png)
 ![4](./images/3.png)
 ![5](./images/4.png)
